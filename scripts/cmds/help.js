@@ -18,7 +18,7 @@ const { commands, aliases } = global.GoatBot;
 
 
 
-const doNotDelete = "[ 🐐 | 𝗘𝗟 𝗕𝗢𝗧 ]"; 
+const doNotDelete = "[ 🐤 | 𝗠𝗟𝗗 𝗕𝗢𝗧 ]"; 
 
 
 
